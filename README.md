@@ -42,7 +42,7 @@ Nesse período, estarei dedicando meus esforços para a pós-graduação, criand
 
 - Análises exploratórias preliminares dos bancos de dados, por meio de gráficos, tabelas, medidas de posição e de dispersão, de modo a extrair conhecimento dos dados, bem como avaliar sua consistência (Python e R); 
 
-- Pré-processamento como: Normalização, tratamento de valores ausentes e codificação de variáveis categóricas, a fim de preparar os dados para os modelos de Machine Learning (Python e R). 
+- Pré-processamento como: Normalização, tratamento de valores ausentes e codificação de variáveis categóricas, a fim de preparar os dados para os modelos de Machine Learning (Python e R); 
 
 - Utilizo modelos Estatísticos e de Machine Learning como: Regressão Linear, Regressão Logística, Árvores de Decisão, Análise de Clusterização, Random Forest, SVM, K-Means e Séries Temporais (Python e R) para realizar predições e gerar visões para suportar as tomadas de decisões;
 
