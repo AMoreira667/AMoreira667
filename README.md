@@ -1,12 +1,12 @@
 Olá 👋, Eu sou André Moreira</h1>
 
-Sou um Cientista de Dados em busca da primeira oportunidade na área de Ciência de Dados, sou altamente motivado, apaixonado por ciência e aprender. Tenho forte senso analítico, facilidade de aprender, gosto trabalhar em grupo fazendo interface com outros setores e tenho excelente comunicação verbal/escrita.
+Sou um Cientista de Dados em busca da primeira oportunidade na área de Dados, sou altamente motivado, apaixonado por ciência e aprender. Tenho forte senso analítico, facilidade de aprender, gosto trabalhar em grupo fazendo interface com outros setores e tenho excelente comunicação verbal/escrita.
 
 Graduado em Ciência de Dados pela Universidade Estácio de Sá e Pós-graduando em Analytics e Inteligência Artificial pelo LabData FIA. Estou me preparado para enfrentar desafios complexos e aplicar minhas habilidades analíticas para resolver problemas de negócio, explorando os dados, investigando padrões, gerando insights valiosos que impulsionem o sucesso do negócio. 
 
 Redator no Podcast Intervalo de Confiança: “Uma distribuição uniforme de pensamento crítico”. Esse Podcast fala sobre Ciência, Ciência de Dados e Inteligência Artificial.
 
-Analista Preditivo com 9 anos de experiência, sou certificado internacionalmente como Analista de Vibrações CAT-II (conforme ISO 18436.2) e Analista de Lubrificantes de Máquinas I (conforme ISO 18436.4), solida experiência em analisar/interpretar o comportamento dinâmico de máquinas rotativas utilizando as técnicas de análise de vibrações, termografia, análise de lubrificantes, ultrassom e ensaios elétricos por MCA/MCE. Realizei vários  cursos de diversas Técnicas de Manutenção Preditiva. Suportava diretamente a Gerência de Manutenção na tomada de decisão de intervenções programadas. Tenho conhecimentos em equipamentos industriais dos segmentos de mineração, cimenteira e siderúrgico.
+Analista Preditivo com 9 anos de experiência, sou certificado internacionalmente como Analista de Vibrações VCAT-II (conforme ISO 18436.2) e Analista de Lubrificantes de Máquinas I (conforme ISO 18436.4), solida experiência em analisar/interpretar o comportamento dinâmico de máquinas rotativas utilizando as técnicas de análise de vibrações, termografia, análise de lubrificantes, ultrassom e ensaios elétricos por MCA/MCE. Realizei vários  cursos de diversas Técnicas de Manutenção Preditiva. Suportava diretamente a Gerência de Manutenção na tomada de decisão de intervenções programadas. Tenho conhecimentos em equipamentos industriais dos segmentos de mineração, cimenteira e siderúrgico.
 
 Já economizei mais de R$10.000.000,00 para o sistema produtivo oriundo de laudos preditivos no último emprego.
 
@@ -28,7 +28,15 @@ Nesse período, estarei dedicando meus esforços para a pós-graduação, criand
 
 🤝 Estou à procura de ajuda com **Matemática para Machine Learning**
 
-📝 Redator no Podcast Intervalo de Confiança: “Uma distribuição uniforme de pensamento crítico”. Esse Podcast fala sobre Ciência, Ciência de Dados e Inteligência Artificial [https://open.spotify.com/show/5eeU6uHaz7oUdZ6LiNh5tB?si=f2101e126a454311]. https://intervalodeconfianca.com.br/
+📝 Redator de Pauta no Podcast Intervalo de Confiança: “Uma distribuição uniforme de pensamento crítico”. Esse Podcast fala sobre Ciência, Ciência de Dados e Inteligência Artificial. https://intervalodeconfianca.com.br/
+
+📝 Variância # 192 – As Leis da Probabilidade - https://intervalodeconfianca.com.br/2023/11/02/variancia-192-as-leis-da-probabilidade/
+
+📝 Variância # 180 – O Fantástico Mundo de Pi - https://intervalodeconfianca.com.br/2023/08/10/variancia-180-o-fantastico-mundo-de-pi/
+
+📝 IC # 175 – Criptomoedas e Tecnologia Blockchain - https://intervalodeconfianca.com.br/2023/07/06/variancia-175-criptomoedas-e-tecnologia-blockchain/
+
+📝 Variância # 168 – A Ciência da Aprendizagem ao Longo da Vida - https://intervalodeconfianca.com.br/2023/05/18/variancia-168-a-ciencia-da-aprendizagem-ao-longo-da-vida/
 
 💬 Me pergunte sobre **Python, RStudio e Estatística**
 
