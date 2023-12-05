@@ -1,6 +1,6 @@
 Olá 👋, Eu sou André Moreira</h1>
 
-Sou Cientista de Dados Junior em busca da primeira oportunidade na área de Ciência de Dados, sou altamente motivado, apaixonado por ciência e aprender. Tenho forte senso analítico, facilidade de aprender, gosto trabalhar em grupo fazendo interface com outros setores e tenho excelente comunicação verbal/escrita.
+Sou um Cientista de Dados em busca da primeira oportunidade na área de Ciência de Dados, sou altamente motivado, apaixonado por ciência e aprender. Tenho forte senso analítico, facilidade de aprender, gosto trabalhar em grupo fazendo interface com outros setores e tenho excelente comunicação verbal/escrita.
 
 Graduado em Ciência de Dados pela Universidade Estácio de Sá e Pós-graduando em Analytics e Inteligência Artificial pelo LabData FIA. Estou me preparado para enfrentar desafios complexos e aplicar minhas habilidades analíticas para resolver problemas de negócio, explorando os dados, investigando padrões, gerando insights valiosos que impulsionem o sucesso do negócio. 
 
@@ -20,9 +20,7 @@ Nesse período, estarei dedicando meus esforços para a pós-graduação, criand
 
 🔭 Atualmente estou trabalhando no porjeto **Avaliação Risco Empréstimo**
 
-🔭 Atualmente estou trabalhando no porjeto **Relação TCE (Traumatismo Crânio Encefálico)**
-
-🔭 Atualmente estou trabalhando no projeto **Desafio Techthon Proadi BCIM Einstein**
+🔭 Atualmente estou trabalhando no artigo científico **Relação TCE (Traumatismo Crânio Encefálico)**
 
 🌱 Estou me aperfeiçoando em **Python, RStudio, Estatística, SQL, Machine Learning e Storytelling**
 
@@ -30,13 +28,13 @@ Nesse período, estarei dedicando meus esforços para a pós-graduação, criand
 
 🤝 Estou à procura de ajuda com **Matemática para Machine Learning**
 
-📝 Redator no Podcast Intervalo de Confiança: “Uma distribuição uniforme de pensamento crítico”. Esse Podcast fala sobre Ciência, Ciência de Dados e Inteligência Artificial [https://open.spotify.com/show/5eeU6uHaz7oUdZ6LiNh5tB?si=f2101e126a454311](https://open.spotify.com/show/5eeU6uHaz7oUdZ6LiNh5tB?si=f2101e126a454311)
+📝 Redator no Podcast Intervalo de Confiança: “Uma distribuição uniforme de pensamento crítico”. Esse Podcast fala sobre Ciência, Ciência de Dados e Inteligência Artificial [https://open.spotify.com/show/5eeU6uHaz7oUdZ6LiNh5tB?si=f2101e126a454311]. https://intervalodeconfianca.com.br/
 
 💬 Me pergunte sobre **Python, RStudio e Estatística**
 
 📫 Você me encontra através do meu site **https://datascientistandre.site/**
 
-📄 O que eu sei fazer como Cientista de Dados Junior:
+📄 O que eu faço como Cientista de Dados Junior:
 
 - Coleta, limpeza e organização de bancos de dados relacionais (Python e SQL);
 
