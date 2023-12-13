@@ -6,7 +6,7 @@ Graduado em Ciência de Dados pela Universidade Estácio de Sá e Pós-graduando
 
 Redator no Podcast Intervalo de Confiança: “Uma distribuição uniforme de pensamento crítico”. Esse Podcast fala sobre Ciência, Ciência de Dados e Inteligência Artificial.
 
-Analista Preditivo com 9 anos de experiência, sou certificado internacionalmente como Analista de Vibrações VCAT-II (conforme ISO 18436.2) e Analista de Lubrificantes de Máquinas I (conforme ISO 18436.4), solida experiência em analisar/interpretar o comportamento dinâmico de máquinas rotativas utilizando as técnicas de análise de vibrações, termografia, análise de lubrificantes, ultrassom e ensaios elétricos por MCA/MCE. Realizei vários  cursos de diversas Técnicas de Manutenção Preditiva. Suportava diretamente a Gerência de Manutenção na tomada de decisão de intervenções programadas. Tenho conhecimentos em equipamentos industriais dos segmentos de mineração, cimenteira e siderúrgico.
+Analista Preditivo com 10 anos de experiência, sou certificado internacionalmente como Analista de Vibrações VCAT-II (conforme ISO 18436.2) e Analista de Lubrificantes de Máquinas I MLA-I (conforme ISO 18436.4), solida experiência em analisar/interpretar o comportamento dinâmico de máquinas rotativas utilizando as técnicas de análise de vibrações, termografia, análise de lubrificantes, ultrassom e ensaios elétricos por MCA/MCE. Realizei vários  cursos de diversas Técnicas de Manutenção Preditiva. Suportava diretamente a Gerência de Manutenção na tomada de decisão de intervenções programadas. Tenho conhecimentos em equipamentos industriais dos segmentos de mineração, cimenteira e siderúrgico.
 
 Já economizei mais de R$10.000.000,00 para o sistema produtivo oriundo de laudos preditivos no último emprego.
 
