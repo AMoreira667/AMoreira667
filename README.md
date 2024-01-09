@@ -14,7 +14,7 @@ Nesse período, estarei dedicando meus esforços para a pós-graduação, criand
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amoreira667" alt="amoreira667" /></a> </p>
 
-🔭 Atualmente estou trabalhando no porjeto **Avaliação Risco Empréstimo**
+🔭 Atualmente estou trabalhando no projeto **Avaliação Risco Empréstimo**
 
 🔭 Atualmente estou trabalhando no artigo científico **Relação TCE (Traumatismo Crânio Encefálico)**
 
