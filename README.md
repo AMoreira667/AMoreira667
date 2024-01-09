@@ -4,11 +4,7 @@ Sou um Cientista de Dados em busca da primeira oportunidade na área de Dados, s
 
 Graduado em Ciência de Dados pela Universidade Estácio de Sá e Pós-graduando em Analytics e Inteligência Artificial pelo LabData FIA. Estou me preparado para enfrentar desafios complexos e aplicar minhas habilidades analíticas para resolver problemas de negócio, explorando os dados, investigando padrões, gerando insights valiosos que impulsionem o sucesso do negócio. 
 
-Redator no Podcast Intervalo de Confiança: “Uma distribuição uniforme de pensamento crítico”. Esse Podcast fala sobre Ciência, Ciência de Dados e Inteligência Artificial.
-
-Analista Preditivo com 10 anos de experiência, sou certificado internacionalmente como Analista de Vibrações VCAT-II (conforme ISO 18436.2) e Analista de Lubrificantes de Máquinas I MLA-I (conforme ISO 18436.4), solida experiência em analisar/interpretar o comportamento dinâmico de máquinas rotativas utilizando as técnicas de análise de vibrações, termografia, análise de lubrificantes, ultrassom e ensaios elétricos por MCA/MCE. Realizei vários  cursos de diversas Técnicas de Manutenção Preditiva. Suportava diretamente a Gerência de Manutenção na tomada de decisão de intervenções programadas. Tenho conhecimentos em equipamentos industriais dos segmentos de mineração, cimenteira e siderúrgico.
-
-Já economizei mais de R$10.000.000,00 para o sistema produtivo oriundo de laudos preditivos no último emprego.
+Técnico em Manutenção Preditiva com 10 anos de experiência, sou certificado internacionalmente como Analista de Vibrações CAT-II (conforme ISO 18436.2) e Analista de Lubrificantes de Máquinas I (conforme ISO 18436.4), solida experiência em analisar/interpretar o comportamento dinâmico de máquinas rotativas utilizando as técnicas de análise de vibrações, termografia, análise de lubrificantes, ultrassom e ensaios elétricos por MCA/MCE. Realizei vários cursos de diversas Técnicas de Manutenção Preditiva. Suportava diretamente a Gerência de Manutenção na tomada de decisão de intervenções programadas. Tenho sólidos conhecimentos em equipamentos industriais dos segmentos de mineração, cimenteira e siderúrgico. Economizei mais de R$10.000.000,00 para o sistema produtivo oriundo de laudos preditivos no último emprego.
 
 Decidi sair do meu último emprego para dedicar exclusivamente à transição de carreira para área de Ciência de Dados.
 
@@ -28,7 +24,9 @@ Nesse período, estarei dedicando meus esforços para a pós-graduação, criand
 
 🤝 Estou à procura de ajuda com **Matemática para Machine Learning**
 
-📝 Redator de Pauta no Podcast Intervalo de Confiança: “Uma distribuição uniforme de pensamento crítico”. Esse Podcast fala sobre Ciência, Ciência de Dados e Inteligência Artificial. https://intervalodeconfianca.com.br/
+📝 Redator de pautas de cunho científico, com enfoque em ciência de dados, ciências em geral e tecnologia. O programa possui uma média semanal de mais de 40 mil ouvintes.
+
+https://intervalodeconfianca.com.br/
 
 📝 Variância # 192 – As Leis da Probabilidade - https://intervalodeconfianca.com.br/2023/11/02/variancia-192-as-leis-da-probabilidade/
 
