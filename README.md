@@ -1,20 +1,22 @@
 Olá 👋, Eu sou André Moreira</h1>
 
-Sou um Cientista de Dados em busca da primeira oportunidade na área de Dados, sou altamente motivado, apaixonado por ciência e aprender. Tenho forte senso analítico, facilidade de aprender, gosto trabalhar em grupo fazendo interface com outros setores e tenho excelente comunicação verbal/escrita.
+Cientista de Dados Industrial altamente motivado, apaixonado por ciência e aprendizado. Possuo forte senso analítico, facilidade de aprendizado e gosto de trabalhar de forma colaborativa em equipes multidisciplinares, estabelecendo interfaces eficazes com outros setores.
 
-Graduado em Ciência de Dados pela Universidade Estácio de Sá e Pós-graduando em Analytics e Inteligência Artificial pelo LabData FIA. Estou me preparado para enfrentar desafios complexos e aplicar minhas habilidades analíticas para resolver problemas de negócio, explorando os dados, investigando padrões, gerando insights valiosos que impulsionem o sucesso do negócio. 
+Sou graduado em Ciência de Dados pela Universidade Estácio de Sá e pós-graduado em Analytics e Inteligência Artificial pelo LabData FIA. Estou preparado para enfrentar desafios complexos e aplicar minhas habilidades analíticas para resolver problemas de negócio, explorando dados, investigando padrões e gerando insights valiosos que impulsionam o sucesso organizacional.
 
-Técnico em Manutenção Preditiva com 10 anos de experiência, sou certificado internacionalmente como Analista de Vibrações CAT-II (conforme ISO 18436.2) e Analista de Lubrificantes de Máquinas I (conforme ISO 18436.4), solida experiência em analisar/interpretar o comportamento dinâmico de máquinas rotativas utilizando as técnicas de análise de vibrações, termografia, análise de lubrificantes, ultrassom e ensaios elétricos por MCA/MCE. Realizei vários cursos de diversas Técnicas de Manutenção Preditiva. Suportava diretamente a Gerência de Manutenção na tomada de decisão de intervenções programadas. Tenho sólidos conhecimentos em equipamentos industriais dos segmentos de mineração, cimenteira e siderúrgico. Economizei mais de R$10.000.000,00 para o sistema produtivo oriundo de laudos preditivos no último emprego.
+Atuo como redator no Podcast Intervalo de Confiança, que aborda temas relacionados à Ciência, Ciência de Dados e Inteligência Artificial.
 
-Decidi sair do meu último emprego para dedicar exclusivamente à transição de carreira para área de Ciência de Dados.
+Com mais de 10 anos de experiência como Analista Preditivo, sou certificado internacionalmente como Analista de Vibrações CAT-II (conforme ISO 18436.2) e Analista de Lubrificantes de Máquinas I (conforme ISO 18436.4). Tenho sólida experiência em analisar e interpretar o comportamento dinâmico de máquinas rotativas, utilizando técnicas de análise de vibrações, termografia, análise de lubrificantes, ultrassom e ensaios elétricos por MCA/MCE. Realizei diversos cursos em Técnicas de Manutenção Preditiva e ofereci suporte direto à Gerência de Manutenção na tomada de decisões sobre intervenções programadas, baseando-me em laudos preditivos.
 
-Nesse período, estarei dedicando meus esforços para a pós-graduação, criando projetos para compor meu portfólio, fazendo cursos, estudando disciplinas relacionadas a área de Ciência de Dados, participando de competições e fazendo network.</h3>
+Possuo conhecimentos abrangentes em equipamentos industriais dos segmentos de mineração, cimenteira e siderurgia.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amoreira667&label=Profile%20views&color=0e75b6&style=flat" alt="amoreira667" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amoreira667" alt="amoreira667" /></a> </p>
 
-🔭 Atualmente estou trabalhando no projeto **Avaliação Risco Empréstimo**
+🔭 Atualmente trabalho como **Cientista de Dados Industrial** na **MHD Inteligência Artificial**
+
+🔭 Atualmente estou trabalhando no projeto **Predictive Maintenance**
 
 🔭 Atualmente estou trabalhando no artigo científico **Relação TCE (Traumatismo Crânio Encefálico)**
 
@@ -24,33 +26,9 @@ Nesse período, estarei dedicando meus esforços para a pós-graduação, criand
 
 🤝 Estou à procura de ajuda com **Matemática para Machine Learning**
 
-📝 Redator de pautas de cunho científico, com enfoque em ciência de dados, ciências em geral e tecnologia. O programa possui uma média semanal de mais de 40 mil ouvintes.
-
-https://intervalodeconfianca.com.br/
-
-📝 Variância # 192 – As Leis da Probabilidade - https://intervalodeconfianca.com.br/2023/11/02/variancia-192-as-leis-da-probabilidade/
-
-📝 Variância # 180 – O Fantástico Mundo de Pi - https://intervalodeconfianca.com.br/2023/08/10/variancia-180-o-fantastico-mundo-de-pi/
-
-📝 IC # 175 – Criptomoedas e Tecnologia Blockchain - https://intervalodeconfianca.com.br/2023/07/06/variancia-175-criptomoedas-e-tecnologia-blockchain/
-
-📝 Variância # 168 – A Ciência da Aprendizagem ao Longo da Vida - https://intervalodeconfianca.com.br/2023/05/18/variancia-168-a-ciencia-da-aprendizagem-ao-longo-da-vida/
-
-💬 Me pergunte sobre **Python, RStudio e Estatística**
+💬 Me pergunte sobre **Python, RStudio, Machine Learning e Estatística**
 
 📫 Você me encontra através do meu site **https://datascientistandre.site/**
-
-📄 O que eu faço como Cientista de Dados Junior:
-
-- Coleta, limpeza e organização de bancos de dados relacionais (Python e SQL);
-
-- Análises exploratórias preliminares dos bancos de dados, por meio de gráficos, tabelas, medidas de posição e de dispersão, de modo a extrair conhecimento dos dados, bem como avaliar sua consistência (Python e R); 
-
-- Pré-processamento como: Normalização, tratamento de valores ausentes e codificação de variáveis categóricas, a fim de preparar os dados para os modelos de Machine Learning (Python e R); 
-
-- Utilizo modelos Estatísticos e de Machine Learning como: Regressão Linear, Regressão Logística, Árvores de Decisão, Análise de Clusterização, Random Forest, SVM, K-Means e Séries Temporais (Python e R) para realizar predições e gerar visões para suportar as tomadas de decisões;
-
-- Comunico os resultados e as recomendações de forma clara e compreensível para não especialistas utilizando técnicas de storytelling.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
