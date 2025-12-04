@@ -1,14 +1,6 @@
 Olá 👋, Eu sou André Moreira</h1>
 
-Cientista de Dados Industrial altamente motivado, apaixonado por ciência e aprendizado. Possuo forte senso analítico, facilidade de aprendizado e gosto de trabalhar de forma colaborativa em equipes multidisciplinares, estabelecendo interfaces eficazes com outros setores.
-
-Sou graduado em Ciência de Dados pela Universidade Estácio de Sá e pós-graduado em Analytics e Inteligência Artificial pelo LabData FIA. Estou preparado para enfrentar desafios complexos e aplicar minhas habilidades analíticas para resolver problemas de negócio, explorando dados, investigando padrões e gerando insights valiosos que impulsionam o sucesso organizacional.
-
-Atuo como redator no Podcast Intervalo de Confiança, que aborda temas relacionados à Ciência, Ciência de Dados e Inteligência Artificial.
-
-Com mais de 10 anos de experiência como Analista Preditivo, sou certificado internacionalmente como Analista de Vibrações CAT-II (conforme ISO 18436.2) e Analista de Lubrificantes de Máquinas I (conforme ISO 18436.4). Tenho sólida experiência em analisar e interpretar o comportamento dinâmico de máquinas rotativas, utilizando técnicas de análise de vibrações, termografia, análise de lubrificantes, ultrassom e ensaios elétricos por MCA/MCE. Realizei diversos cursos em Técnicas de Manutenção Preditiva e ofereci suporte direto à Gerência de Manutenção na tomada de decisões sobre intervenções programadas, baseando-me em laudos preditivos.
-
-Possuo conhecimentos abrangentes em equipamentos industriais dos segmentos de mineração, cimenteira e siderurgia.</h3>
+Profissional motivado e analítico, especializado em ciência de dados, machine learning e inteligência artificial, com experiência em ambientes cloud (AWS, Databricks) e em projetos que envolvem todo o ciclo de modelagem preditiva e aplicação de IA. Capacidade em construir soluções escaláveis, robustas e alinhadas ao negócio, utilizando frameworks open source e ferramentas líderes do mercado.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amoreira667&label=Profile%20views&color=0e75b6&style=flat" alt="amoreira667" /> </p>
 
