@@ -1,3 +1,4 @@
+````
 # Senior Data Science & ML Engineering Portfolio
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
@@ -35,34 +36,8 @@ Senior Data Scientist & ML Infrastructure Engineer with **6+ years of experience
 | **Cloud & DevOps** | `AWS (SageMaker, S3, EKS)`, `Docker`, `Kubernetes`, `Terraform`, `GitHub Actions` |
 | **Monitoring & API Deployment** | `FastAPI`, `gRPC`, `Prometheus`, `Grafana`, `Triton Inference Server` |
 
----
+Repositório em Manutenção/Atualização
 
-## 🏗️ Standard Production System Architecture
-
-All production projects featured in this repository follow a unified, event-driven MLOps reference architecture:
-
-```mermaid
-flowchart LR
-    subgraph Data Processing
-        A[Raw Data Sources] --> B[Airflow / Spark Pipelines]
-        B --> C[Feast Feature Store]
-    end
-
-    subgraph Model Training & Tracking
-        C --> D[Model Training Script]
-        D --> E[MLflow Registry & DVC]
-    end
-
-    subgraph Deployment & Serving
-        E --> F[CI/CD GitHub Actions]
-        F --> G[Docker / Kubernetes Cluster]
-        G --> H[FastAPI / Triton Server]
-    end
-
-    subgraph Monitoring
-        H --> I[Prometheus & Grafana]
-        I -->|Data Drift Alerts| B
-    end
 ````
 
 Olá 👋, Eu sou André Moreira</h1>
