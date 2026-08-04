@@ -1,3 +1,70 @@
+# Senior Data Science & ML Engineering Portfolio
+
+[![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)](https://pytorch.org/)
+[![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+[![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)](https://mlflow.org/)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
+
+Welcome to my central portfolio repository. This showcase indexes production-ready Machine Learning systems, distributed data pipelines, and MLOps architectures built with a focus on **scalability**, **reproducibility**, and **measurable business impact**.
+
+---
+
+## 👨‍💻 Executive Summary
+
+Senior Data Scientist & ML Infrastructure Engineer with **6+ years of experience** taking machine learning models from mathematical prototyping to production microservices handling millions of daily inference requests.
+
+* **Core Competencies:** Scalable Predictive Modeling, MLOps, LLM/RAG Systems, Real-Time Streaming Analytics, Computer Vision, and Distributed Training.
+* **Engineering Standards:** Production Python (OOP, Typing, Design Patterns), Infrastructure as Code (Terraform), Containerization (Docker/K8s), and automated CI/CD pipelines with comprehensive testing suites (`pytest`).
+* **Business Orientation:** Track record of driving revenue growth and cost efficiency by translating complex business objectives into low-latency ML microservices.
+
+---
+
+## 🛠️ Technology Stack & Tooling
+
+| Domain | Core Stack & Infrastructure |
+| :--- | :--- |
+| **Languages** | `Python`, `SQL (PostgreSQL, Snowflake)`, `Bash`, `C++` |
+| **ML / DL Frameworks** | `PyTorch`, `Scikit-Learn`, `XGBoost`, `LightGBM`, `Hugging Face`, `TensorFlow` |
+| **Generative AI & LLMs** | `LangChain`, `LlamaIndex`, `vLLM`, `Pinecone`, `Milvus`, `Qdrant` |
+| **Data Processing & Orchestration** | `Apache Spark / PySpark`, `Polars`, `Pandas`, `Apache Airflow`, `Prefect`, `dbt` |
+| **MLOps & Governance** | `MLflow`, `DVC`, `Weights & Biases`, `Feast (Feature Store)`, `Evidently AI` |
+| **Cloud & DevOps** | `AWS (SageMaker, S3, EKS)`, `Docker`, `Kubernetes`, `Terraform`, `GitHub Actions` |
+| **Monitoring & API Deployment** | `FastAPI`, `gRPC`, `Prometheus`, `Grafana`, `Triton Inference Server` |
+
+---
+
+## 🏗️ Standard Production System Architecture
+
+All production projects featured in this repository follow a unified, event-driven MLOps reference architecture:
+
+```mermaid
+flowchart LR
+    subgraph Data Processing
+        A[Raw Data Sources] --> B[Airflow / Spark Pipelines]
+        B --> C[Feast Feature Store]
+    end
+
+    subgraph Model Training & Tracking
+        C --> D[Model Training Script]
+        D --> E[MLflow Registry & DVC]
+    end
+
+    subgraph Deployment & Serving
+        E --> F[CI/CD GitHub Actions]
+        F --> G[Docker / Kubernetes Cluster]
+        G --> H[FastAPI / Triton Server]
+    end
+
+    subgraph Monitoring
+        H --> I[Prometheus & Grafana]
+        I -->|Data Drift Alerts| B
+    end
+````
+
 Olá 👋, Eu sou André Moreira</h1>
 
 Profissional motivado e analítico, especializado em ciência de dados, machine learning e inteligência artificial, com experiência em ambientes cloud (AWS, Databricks) e em projetos que envolvem todo o ciclo de modelagem preditiva e aplicação de IA. Capacidade em construir soluções escaláveis, robustas e alinhadas ao negócio, utilizando frameworks open source e ferramentas líderes do mercado.</h3>
